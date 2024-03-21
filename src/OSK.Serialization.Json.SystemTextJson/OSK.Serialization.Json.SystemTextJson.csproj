@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Description>An implementation of a serializer using System.Text.Json</Description>
+		<PackageTags>OpenSourceKingdom, OpenSource, Serialization, Deserialization, Serializing, Deserializing, Converting, Data, Storage, Json</PackageTags>
+		<Authors>BlankDev117</Authors>
+		<Title>OSK.Serialization.Json.SystemTextJson</Title>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Options" Version="8.0.2" />
+		<PackageReference Include="OSK.Serialization.Abstractions.Json" Version="1.1.2" />
+		<PackageReference Include="System.Text.Json" Version="8.0.2" />
+	</ItemGroup>
+
+</Project>

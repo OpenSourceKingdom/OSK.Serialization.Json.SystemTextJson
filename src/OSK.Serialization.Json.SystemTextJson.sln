@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSK.Serialization.Json.SystemTextJson", "OSK.Serialization.Json.SystemTextJson\OSK.Serialization.Json.SystemTextJson.csproj", "{CEF77A38-DA7F-47FF-84C7-AB861B5D7B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSK.Serialization.Json.SysTxtJson.UnitTests", "OSK.Serialization.Json.SysTxtJson.UnitTests\OSK.Serialization.Json.SysTxtJson.UnitTests.csproj", "{F64B25D5-F235-4A10-A035-E7E925D20A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF77A38-DA7F-47FF-84C7-AB861B5D7B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF77A38-DA7F-47FF-84C7-AB861B5D7B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF77A38-DA7F-47FF-84C7-AB861B5D7B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF77A38-DA7F-47FF-84C7-AB861B5D7B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64B25D5-F235-4A10-A035-E7E925D20A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64B25D5-F235-4A10-A035-E7E925D20A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64B25D5-F235-4A10-A035-E7E925D20A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64B25D5-F235-4A10-A035-E7E925D20A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E325BAFC-F890-4DE1-821E-F8D9C63A9404}
+	EndGlobalSection
+EndGlobal
